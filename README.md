@@ -1,2 +1,2 @@
 # CS425
-MarriotHotelDB
+MarriotHotelDatabase
